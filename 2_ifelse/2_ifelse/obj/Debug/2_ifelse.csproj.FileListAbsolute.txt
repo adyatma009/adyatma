@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\2_ifelse\2_ifelse\bin\Debug\2_ifelse.exe.config
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\2_ifelse\2_ifelse\bin\Debug\2_ifelse.exe
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\2_ifelse\2_ifelse\bin\Debug\2_ifelse.pdb
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\2_ifelse\2_ifelse\obj\Debug\2_ifelse.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\2_ifelse\2_ifelse\obj\Debug\2_ifelse.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\2_ifelse\2_ifelse\obj\Debug\2_ifelse.exe
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\2_ifelse\2_ifelse\obj\Debug\2_ifelse.pdb

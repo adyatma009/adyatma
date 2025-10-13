@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\1_else\1_else\bin\Debug\1_else.exe.config
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\1_else\1_else\bin\Debug\1_else.exe
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\1_else\1_else\bin\Debug\1_else.pdb
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\1_else\1_else\obj\Debug\1_else.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\1_else\1_else\obj\Debug\1_else.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\1_else\1_else\obj\Debug\1_else.exe
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\1_else\1_else\obj\Debug\1_else.pdb
