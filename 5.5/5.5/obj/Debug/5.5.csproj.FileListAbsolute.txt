@@ -1,0 +1,8 @@
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\5.5\5.5\bin\Debug\5.5.exe.config
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\5.5\5.5\bin\Debug\5.5.exe
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\5.5\5.5\bin\Debug\5.5.pdb
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\5.5\5.5\obj\Debug\5.5.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\5.5\5.5\obj\Debug\5.5.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\5.5\5.5\obj\Debug\5.5.exe
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\5.5\5.5\obj\Debug\5.5.pdb
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\5.5\5.5\obj\Debug\5.5.exe.config
