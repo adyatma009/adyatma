@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\tugas 55 (for)\tugas 55 (for)\bin\Debug\tugas 55 (for).exe.config
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\tugas 55 (for)\tugas 55 (for)\bin\Debug\tugas 55 (for).exe
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\tugas 55 (for)\tugas 55 (for)\bin\Debug\tugas 55 (for).pdb
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\tugas 55 (for)\tugas 55 (for)\obj\Debug\tugas 55 (for).csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\tugas 55 (for)\tugas 55 (for)\obj\Debug\tugas 55 (for).csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\tugas 55 (for)\tugas 55 (for)\obj\Debug\tugas 55 (for).exe
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\tugas 55 (for)\tugas 55 (for)\obj\Debug\tugas 55 (for).pdb
