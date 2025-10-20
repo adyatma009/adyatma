@@ -1,0 +1,8 @@
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\kalkulator keren\kalkulator keren\bin\Debug\kalkulator keren.exe.config
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\kalkulator keren\kalkulator keren\bin\Debug\kalkulator keren.exe
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\kalkulator keren\kalkulator keren\bin\Debug\kalkulator keren.pdb
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\kalkulator keren\kalkulator keren\obj\Debug\kalkulator keren.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\kalkulator keren\kalkulator keren\obj\Debug\kalkulator keren.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\kalkulator keren\kalkulator keren\obj\Debug\kalkulator keren.exe
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\kalkulator keren\kalkulator keren\obj\Debug\kalkulator keren.pdb
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\kalkulator keren\kalkulator keren\obj\Debug\kalkulator keren.exe.config
