@@ -1,0 +1,18 @@
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG\PROJEK AHIR PPLG\bin\Debug\net8.0-windows\PROJEK AHIR PPLG.exe
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG\PROJEK AHIR PPLG\bin\Debug\net8.0-windows\PROJEK AHIR PPLG.deps.json
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG\PROJEK AHIR PPLG\bin\Debug\net8.0-windows\PROJEK AHIR PPLG.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG\PROJEK AHIR PPLG\bin\Debug\net8.0-windows\PROJEK AHIR PPLG.dll
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG\PROJEK AHIR PPLG\bin\Debug\net8.0-windows\PROJEK AHIR PPLG.pdb
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG\PROJEK AHIR PPLG\obj\Debug\net8.0-windows\PROJEK_AHIR_PPLG.FormLogin.resources
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG\PROJEK AHIR PPLG\obj\Debug\net8.0-windows\PROJEK_AHIR_PPLG.FormTransaksi.resources
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG\PROJEK AHIR PPLG\obj\Debug\net8.0-windows\PROJEK_AHIR_PPLG.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG\PROJEK AHIR PPLG\obj\Debug\net8.0-windows\PROJEK AHIR PPLG.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG\PROJEK AHIR PPLG\obj\Debug\net8.0-windows\PROJEK AHIR PPLG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG\PROJEK AHIR PPLG\obj\Debug\net8.0-windows\PROJEK AHIR PPLG.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG\PROJEK AHIR PPLG\obj\Debug\net8.0-windows\PROJEK AHIR PPLG.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG\PROJEK AHIR PPLG\obj\Debug\net8.0-windows\PROJEK AHIR PPLG.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG\PROJEK AHIR PPLG\obj\Debug\net8.0-windows\PROJEK AHIR PPLG.dll
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG\PROJEK AHIR PPLG\obj\Debug\net8.0-windows\refint\PROJEK AHIR PPLG.dll
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG\PROJEK AHIR PPLG\obj\Debug\net8.0-windows\PROJEK AHIR PPLG.pdb
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG\PROJEK AHIR PPLG\obj\Debug\net8.0-windows\PROJEK AHIR PPLG.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG\PROJEK AHIR PPLG\obj\Debug\net8.0-windows\ref\PROJEK AHIR PPLG.dll

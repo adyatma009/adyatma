@@ -1,0 +1,5 @@
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG.exe
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG.dll
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG.deps.json
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documents\tugas produktif\PROJEK AHIR PPLG.pdb
