@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>FORM PENDAFTARAN SISWA BARU SMK NEGERI 1 KANDEMAN</h1>
+
+    <fieldset>
+      <legend>Biodata Siswa</legend>
+      <table>
+        <tr>
+          <td>No. UN SMP/MTs/Sederajat :</td>
+          <td><input type="text" name="UN" /></td>
+        </tr>
+
+        <tr>
+          <td>Masukan nama lengkap :</td>
+          <td><input type="text" name="NL" /></td>
+        </tr>
+
+        <tr>
+            <td>Jenis kelamin :</td>
+            <td><input type="radio" name="JK" value="Laki-laki" /> Laki-laki
+                <br>
+                <input type="radio" name="JK" value="Perempuan" /> Perempuan
+        </tr>
+        
+        <tr>
+            <td>Nama orang tua/wali :</td>
+            <td><input type="text" name="NW" /></td>
+        </tr>
+
+        <tr>
+            <td>Alamat rumah:</td>
+            <td><input type="text" name="AR" /></td>
+        </tr>
+
+        <tr>
+            <td>Kota/Kabupaten</td>
+            <td><input type="text" name="KK" /></td>
+        </tr>
+
+        <tr>
+           <td>Asal Sekolah</td>
+           <td><input type="text" name="AS" /></td>
+        </tr>
+
+        <tr>
+            <td>Agama</td>
+            <td>
+                <select name="Agama" id="AG">
+                    <option value="Islam">Islam</option>
+                    <option value="Kristen">Kristen</option>
+                    <option value="Hindu">Hindu</option>
+                    <option value="Budha">Budha</option>
+                    <option value="Konghucu">Konghucu</option>
+            </td>
+        </tr>
+      </table>
+
+    </fieldset>
+    <br>
+
+    <fieldset>
+        <legend>Penilaian</legend>
+        <table>
+            Nilai ujian Nasional
+            <tr>
+                <td>Bahasa Indonesia</td>
+                <td><input type="text" name="BI" /></td>
+            </tr>
+            <tr>
+                <td>Bahasa Inggris</td>
+                <td><input type="text" name="BI" /></td>
+            </tr>
+            <tr>
+                <td>Matematika</td>
+                <td><input type="text" name="MTK" /></td>
+            </tr>
+            <tr>
+                <td>IPA</td>
+                <td><input type="text" name="IPA" /></td>
+            </tr>
+            <tr>
+                    <td>Jumlah UN </td>
+                    <td><input type="text" name="JUmblah_NUN"></td>
+            </tr>
+            <tr>
+                <td width="200">NILAI BONUS PRESTASI (NBP)</td>
+                <td><input type="text" name="NBP" /></td>
+            </tr>
+            <tr>
+                <td width="390">JUMLAH TOTAL NILAI AKHIR PPDB ( Rumus : NUN + NBP )</td>
+                <td><input type="text" name="Jumlah_Total_Nilai_Akhir_PPDB" /></td>
+            </tr>
+        </table>
+    </fieldset>
+    <br>
+    <input type="submit" value="Submit">
+
+  </body>
+</html>
