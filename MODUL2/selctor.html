@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* selector */
+        p{
+            color: blue
+        }
+        /* class selector */
+        .highlight{
+            background-color: red;
+        }
+        /* id selector */
+        #unique{
+            border: 2px solid red;
+        }
+        /* selctor atribut */
+        a[href] {
+            text-decoration: none;
+            color: green;
+        }
+        /* selctor universal */
+        * {
+            font-family:'Times New Roman', Times, serif
+        }
+    </style>
+</head>
+<body>
+    <h1>contoh penggunaan selector dalam html</h1>
+    <!-- selvotr tag-->
+    <p>ini adalah paragraf yang m,engunakan selector</p>
+    <!-- selctor class -->
+    <div class="highlight">
+        <p>ini adalah paragraf yang menggunakan selector class</p>
+    </div>
+    <!-- selctor id -->
+    <div id="unique">
+        <p>ini adalah paragraf yang menggunakan selector id</p>
+    </div>
+    <!-- selctor atribut -->
+    <a href="https://www.example.com">ini adalah link yang menggunakan selector atribut</a>
+    <!-- selctor universal -->
+    <p *>ini adalah paragraf yang menggunakan selector universal</p>
+    </body>
+</html>
