@@ -1,0 +1,19 @@
+.RGB{
+    color: rgb(255, 0, 0);
+    padding: 10px;
+    margin:5px;;
+}
+.RGBA{
+    color: rgba(255, 50, 0, 0.5);
+    padding: 10px;
+    margin:5px;;
+}
+.HSL{
+    color: hsl(120, 100%, 50%);
+    padding: 10px;
+    margin:5px;;
+}.HSLA{
+    color: hsla(190, 100%, 50%, 0.5);
+    padding: 10px;
+    margin:5px;;
+}
